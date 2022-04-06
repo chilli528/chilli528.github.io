@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 种一棵树最好的时间是十年前，其次是现在
 
 You can use the [editor on GitHub](https://github.com/chilli528/chilli528.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
